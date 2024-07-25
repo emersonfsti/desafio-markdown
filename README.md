@@ -8,7 +8,6 @@ Este repositório é dedicado aos incríveis heróis do Universo Marvel. A Marve
 
 ### Homem de Ferro
 
-![Homem de Ferro]
 <img src="https://github.com/emersonfsti/desafio-markdown/blob/main/img/iron2.png?raw=true" alt="ironman" style="float:left; margin-right:10px;" width="200" height="200"/>
 
 **Nome Real:** Tony Stark  
@@ -17,9 +16,14 @@ Este repositório é dedicado aos incríveis heróis do Universo Marvel. A Marve
 - Armaduras de alta tecnologia
 - Energia repulsora
 
+<br>
+<hr>
+
 ### Capitão América
 
-![Capitão América](https://upload.wikimedia.org/wikipedia/en/9/91/CaptainAmerica109.jpg)
+
+<img src="https://github.com/emersonfsti/desafio-markdown/blob/main/img/capi2.png?raw=true" alt="Capitão América" style="float:left; margin-right:10px;" width="200" height="200"/>
+
 
 **Nome Real:** Steve Rogers  
 **Habilidades:**  
@@ -27,9 +31,12 @@ Este repositório é dedicado aos incríveis heróis do Universo Marvel. A Marve
 - Mestre em combate corpo a corpo
 - Escudo indestrutível
 
-### Thor
+<br>
+<hr>
 
-![Thor](https://upload.wikimedia.org/wikipedia/en/4/4c/Thor_by_Olivier_Coipel.png)
+### Thor
+<img src="https://github.com/emersonfsti/desafio-markdown/blob/main/img/thor2.png?raw=true" alt="Thor" style="float:left; margin-right:10px;" width="200" height="200"/>
+
 
 **Nome Real:** Thor Odinson  
 **Habilidades:**  
@@ -37,9 +44,12 @@ Este repositório é dedicado aos incríveis heróis do Universo Marvel. A Marve
 - Super força e resistência
 - Mjolnir, o martelo encantado
 
+<br>
+<hr>
+
 ### Hulk
 
-![Hulk](https://upload.wikimedia.org/wikipedia/en/5/59/Hulk_(comics_character).png)
+<img src="https://github.com/emersonfsti/desafio-markdown/blob/main/img/hulk.png?raw=true" alt="Hulk" style="float:left; margin-right:10px;" width="200" height="200"/>
 
 **Nome Real:** Bruce Banner  
 **Habilidades:**  
@@ -47,6 +57,8 @@ Este repositório é dedicado aos incríveis heróis do Universo Marvel. A Marve
 - Resistência e durabilidade extremas
 - Aumenta de poder com a raiva
 
+<br>
+<hr>
 ## Tecnologias Utilizadas
 
 Este projeto utiliza apenas Markdown para formatação.
