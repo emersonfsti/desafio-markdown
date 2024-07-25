@@ -9,7 +9,7 @@ Este repositório é dedicado aos incríveis heróis do Universo Marvel. A Marve
 ### Homem de Ferro
 
 ![Homem de Ferro]
-<img src="https://github.com/emersonfsti/desafio-github-markdown/blob/main/img/ironman.png?raw=true" alt="ironman" style="float:left; margin-right:10px;" width="150" height="150"/>
+<img src="https://github.com/emersonfsti/desafio-markdown/blob/main/img/iron2.png?raw=true" alt="ironman" style="float:left; margin-right:10px;" width="200" height="200"/>
 
 **Nome Real:** Tony Stark  
 **Habilidades:**  
